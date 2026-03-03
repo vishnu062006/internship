@@ -1,1 +1,18 @@
-# 🚀 Euphoric Thought Technologies ![License](https://img.shields.io/badge/license-MIT-blue.svg) Internship as a Full Stack Web Developer. ## 📦 Tech Stack - **Frontend:** React, Tailwind CSS - **Backend:** Node.js, Express - **Database:** MongoDB ## 🛠️ Getting Started ### Prerequisites - Node.js >= 18 - npm >= 9 ### Installation ```bash git clone https://github.com/username/repo.git cd repo npm install cp .env.example .env npm run dev ``` ## 📂 Folder Structure ``` src/ ├── components/ ├── pages/ └── utils/ ``` ## 🤝 Contributing 1. Fork the repo 2. Create branch: `git checkout -b feat/your-feature` 3. Commit changes: `git commit -m "feat: add your feature"` 4. Push: `git push origin feat/your-feature` 5. Open a Pull Request ## 📄 License MIT © Your Name
+Euphoric Thought Technologies
+
+Description:
+Internship as a full stack web developer
+
+
+Tech Stack
+- Java
+- React
+- Node.js
+
+
+Installation
+
+
+git clone https://github.com/vishnu062006/internship.git
+cd repo
+npm install
